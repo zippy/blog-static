@@ -1,0 +1,17 @@
+/* Site banner */
+header.py-6 {
+  background-image: url('/blog/img/flow.jpg') !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2rem 1rem;
+  min-height: 120px;
+  border-bottom: 3px solid #c69f63;
+  margin-bottom: 5px;
+}
+
+header.py-6 a,
+header.py-6 span {
+  color: white !important;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
