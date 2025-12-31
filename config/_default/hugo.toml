@@ -1,0 +1,25 @@
+# Site Configuration
+theme = "congo"
+baseURL = "https://eric.harris-braun.com/blog/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+summaryLength = 30
+
+[pagination]
+  pagerSize = 15
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Match original WordPress URL structure: /YYYY/MM/DD/slug/
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true

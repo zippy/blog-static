@@ -1,0 +1,16 @@
+languageCode = "en-US"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "flow"
+
+[params]
+  dateFormat = "January 2, 2006"
+  mainSections = ["posts"]
+  description = "It's all about the pattern"
+
+[params.author]
+  name = "Eric Harris-Braun"
+  headline = "It's all about the pattern"
+  bio = "Writings on collective intelligence, currency, open source, coding, and more."

@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" charset="UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Page not found | flow</title>
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://eric.harris-braun.com/blog/xmlrpc.php">   
+    <link rel="alternate" type="application/rss+xml" title="flow &raquo; Feed" href="https://eric.harris-braun.com/blog/feed" />
+<link rel="alternate" type="application/rss+xml" title="flow &raquo; Comments Feed" href="https://eric.harris-braun.com/blog/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/eric.harris-braun.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.33"}};
+			!function(e,n,t){var a;function i(e){var t=n.createElement("canvas"),a=t.getContext&&t.getContext("2d"),i=String.fromCharCode;return!(!a||!a.fillText)&&(a.textBaseline="top",a.font="600 32px Arial","flag"===e?(a.fillText(i(55356,56806,55356,56826),0,0),3e3<t.toDataURL().length):"diversity"===e?(a.fillText(i(55356,57221),0,0),t=a.getImageData(16,16,1,1).data,a.fillText(i(55356,57221,55356,57343),0,0),(t=a.getImageData(16,16,1,1).data)[0],t[1],t[2],t[3],!0):("simple"===e?a.fillText(i(55357,56835),0,0):a.fillText(i(55356,57135),0,0),0!==a.getImageData(16,16,1,1).data[0]))}function o(e){var t=n.createElement("script");t.src=e,t.type="text/javascript",n.getElementsByTagName("head")[0].appendChild(t)}t.supports={simple:i("simple"),flag:i("flag"),unicode8:i("unicode8"),diversity:i("diversity")},t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.simple&&t.supports.flag&&t.supports.unicode8&&t.supports.diversity||(a=function(){t.readyCallback()},n.addEventListener?(n.addEventListener("DOMContentLoaded",a,!1),e.addEventListener("load",a,!1)):(e.attachEvent("onload",a),n.attachEvent("onreadystatechange",function(){"complete"===n.readyState&&t.readyCallback()})),(a=t.source||{}).concatemoji?o(a.concatemoji):a.wpemoji&&a.twemoji&&(o(a.twemoji),o(a.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-syntax-css-css'  href='https://eric.harris-braun.com/blog/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://eric.harris-braun.com/blog/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://eric.harris-braun.com/blog/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4.33' type='text/css' media='all' />
+<link rel='stylesheet' id='puresimple-responsive-css'  href='https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/css/responsive.min.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='puresimple-fontawesome-css'  href='https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='puresimple-opensans-css'  href='https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/css/font-opensans.css?ver=1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='puresimple-style-css'  href='https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/style.css?ver=4.4.33' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://eric.harris-braun.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.10' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-20236804-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='https://eric.harris-braun.com/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eric.harris-braun.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eric.harris-braun.com/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.33" />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">
+html {font-size: 100%;}a, a:visited {color:#c69f63;}a:focus, a:hover {color:#767676;}.more-link a {background-color: #789993;	color: #ffffff;}.more-link a:hover {background-color: #a48a61; color: #ffffff;}#footer-menu a {color: #b2b2b2;}#footer-menu a:hover {color: #767676;}#bottom-wrapper a,#bottom-wrapper .tagcloud a {color: #ffffff;}#bottom-wrapper a:hover {color: #cadad7;}#bottom-wrapper .tagcloud a {border-color: #cadad7;}#socialbar .socialicon {background-color: #42474d;}#socialbar a {color: #767676;}#socialbar a:hover {color: #9c9c9c;}.entry-title {font-size: 1.625rem;}.widget-title {font-size: 1.313rem;}#content {font-size: 0.813rem;}#bottom-wrapper {font-size: 0.75rem;}.site-tagline:before {background-color: #b9b9b9;}#cta {background-color:#ffffff;}h1 {font-size: 1.75rem;}h2 {font-size: 1.625rem;}h3 {font-size: 1.438rem;}h4 {font-size: 1.125rem;}h5 {font-size: 1rem;}h6 {font-size: 0.875rem;}#cta-heading {color:#4c4c4c;}.entry-title, .entry-title a {color:#4c4c4c;}.widget-title {color:#4c4c4c;}#bottom-wrapper .widget-title {color:#cadad7;}#footer-heading {color:#767676;}#bottom-wrapper {background-color:#566965;}
+
+@media screen and (min-width: 783px) {.site-navigation ul {font-size: 1rem;}.primary-navigation li li > a {font-size: 0.813rem;}.primary-navigation li li > a {color:#b6b6b6; border-color:#363535;}.primary-navigation li a,.site-navigation a:hover,.site-navigation .current-menu-item > a,.site-navigation .current-menu-item > a,.site-navigation .current-menu-ancestor > a {color:#ffffff;}.primary-navigation ul ul,.primary-navigation li a:hover,.primary-navigation li li:hover > a,.primary-navigation li li.focus > a,.primary-navigation ul ul a:hover,.primary-navigation ul ul li.focus > a {background-color:#080d07;}.site-navigation .current-menu-item > a,
+.site-navigation .current-menu-ancestor > a {background-color: #080d07;}	.home.current-menu-item a {background: none;}}
+</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/images/page-bg.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+
+<style id="custom-css-css">.site-info{background-color:rgba(0,0,0,.3)}</style>
+</head>
+    
+<body class="error404 custom-background">
+
+<div id="page" class="boxwide hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+    
+<div id="masthead" class="header-box" style="background-color: #ffffff;">
+	<div class="header-bg" style=" background-image: url(https://eric.harris-braun.com/blog/wp-content/uploads/2015/05/jesseflow.jpg	);">
+							
+		<div class="header-inner"  style="padding: 2rem 0 2rem 0;">
+								
+				<div class="site-info fade-logo" style="background-color: ;">
+					<h1 class="site-title" style="font-size: 2rem;">
+						<a style="color: #ffffff;" href="https://eric.harris-braun.com/blog" title="flow It&#039;s all about the pattern" rel="home">flow</a>
+					</h1>								
+											<h3 class="site-tagline" style="font-size: 1rem; color: #b9b9b9;">It&#039;s all about the pattern</h3>
+												
+				</div>
+							
+												
+		</div>								
+	</div>
+</div> 
+	
+    
+<div class="navigation clearfix" style="background-color: #789993;">
+  	<div class="container">
+      	<div class="row">
+          <div class="col-md-12">
+             <div id="navbar" class="navbar">
+				<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<div class="toggle-container visible-xs visible-sm hidden-md hidden-lg" style="background-color: #789993;">
+                <button class="menu-toggle">Menu</button></div>
+               
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+            
+                <div class="nav-menu"><ul><li ><a href="https://eric.harris-braun.com/blog/">Home</a></li><li class="page_item page-item-6"><a href="https://eric.harris-braun.com/blog/projects">About</a></li></ul></div>
+ 
+                               
+			</nav>
+			</div>
+            
+			</div>
+		</div>      
+	</div>
+</div><!-- .navigation -->
+    
+
+
+
+
+    
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" style="background-color: #ffffff; color:#767676;" role="main">
+<div id="primary" class="content-area">
+    <div id="content" class="site-content" role="main">
+        <div class="container">
+            <div class="row">    
+                <div class="col-md-12">
+                
+                    <section id="cir-content-area" role="main">
+      
+                        <div class="error-content">
+                
+                            <header class="page-header">
+                                <h1 style="font-weight:bold;">Page Not Found</h1><br/>
+                                <h2 style="font-weight:bold;">Well this does not look good.<br />It appears this page is missing or was removed.</h2>                     
+                            </header>
+                            <br/>
+                            <br/>
+            
+                        <h4>If what you were looking for is not found, you may want to try searching with keywords relevant to what you were looking for.</h4><br/>
+                        
+                        <div class="input-group-box">
+                            
+
+<form role="search" method="get" class="search-form" action="https://eric.harris-braun.com/blog/">
+<span class="screen-reader-text">Search for:</span>
+<div class="input-group">
+      <input type="text" class="form-control" value="" name="s">
+      <span class="input-group-btn">
+        <button class="btn btn-grey" type="submit" value="Search"><i class="fa fa-search"></i></button>
+      </span>
+    </div><!-- /input-group -->
+</form>                            </div>
+                </div><!-- .page-content -->
+                                
+            </div>
+        </div><!-- #main -->
+    </div><!-- #primary -->
+</section>          
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    </div><!-- #content -->
+</div><!-- #primary -->
+
+
+<div id="bottom-wrapper" style="color:#cadad7;">
+    </div>
+
+    <footer id="site-footer" style="background-color:#000000; color:#767676;" role="contentinfo">
+    
+                
+        
+        <div id="social-wrapper">
+            
+	<div id="socialbar">
+		<div id="social-icons"></div>	
+       
+	</div>
+        </div>
+        
+
+        
+        <nav id="footer-nav" role="navigation">
+			        </nav>
+            Copyright &copy; 
+            2025 Eric Harris-Braun.&nbsp;All rights reserved.            
+    </footer>
+    
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202601'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/blog\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a'></script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.33'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2025Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.33'></script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-content/themes/pure-simple/js/global.min.js?ver=20141001'></script>
+<script type='text/javascript' src='https://eric.harris-braun.com/blog/wp-includes/js/wp-embed.min.js?ver=4.4.33'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202501.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.10',blog:'90580086',post:'0',tz:'-5',srv:'eric.harris-braun.com'} ]);
+	_stq.push([ 'clickTrackerInit', '90580086', '0' ]);
+</script>
+
+</body>
+</html>

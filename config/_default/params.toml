@@ -1,0 +1,52 @@
+# Theme Parameters
+
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  recentLimit = 10
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+  showComments = true
+
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showTaxonomies = true
+  groupByYear = true
+  paginationWidth = 1
+
+[taxonomy]
+  showTermCount = true

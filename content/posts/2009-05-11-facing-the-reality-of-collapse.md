@@ -1,0 +1,49 @@
+---
+title: "facing the reality of collapse"
+date: 2009-05-11
+categories: 
+  - "non-geeky"
+tags: 
+  - "caterpillar"
+  - "collapse"
+  - "reality"
+slug: "facing-the-reality-of-collapse"
+---
+
+A friend of mine recently asked me to read Carolyn Baker's article [When facing reality is not 'negative thinking'](http://carolynbaker.net/site/content/view/1085/1/). This article has finally helped me nail down some thoughts I've been having about the way I've been often asked to look at the "collapse" of civilization and the idea that we need to "face reality."
+
+To begin with, I'd like to affirm my agreement with Dr. Baker and others that the ways our world is currently structured, from how we use people and energy, to how we feed our selves, to our political and financial forms, are completely unsustainable and are destined to be radically changed. That much is certain to me.
+
+But I'd like to suggest that the very act of framing this process of change in terms of "collapse" and "facing reality" is in itself part of remaining within those same sets of unsustainable structures.
+
+Some people have described the current era as on par with what happens in a caterpillar before it turns into a butterfly. This process is not a simple transformation in which the caterpillar's body shrinks and then sprouts wings and legs. Instead the body of the caterpillar completely "collapses" into a a blob of ooze, and then re-grows itself into its new form starting from what are called imaginal cells, which are a kind of new butterfly stem cells that are even attacked by the body of the caterpillar before it has completely dissolved because they are at first not even recognized as "self." This process has been written about elsewhere, so I won't belabor it, but if you haven't read about it before, it's worth Googling.
+
+However, I actually don't think that this caterpillar-butterfly process really is on par with what's happening now, for one main reason: the outcome of the metamorphosis of the caterpillar is pretty darn certain, but the outcome of our future is not at all certain. But this makes it more clear to me that to describe the change we are facing now as "collapse" is even more of a mistake than it is for me to use the word "collapse" in describing what happens to the body of the caterpillar.
+
+The word collapse comes from the roots "fall" and "together" and evokes the idea of the falling down of a building, and its breaking apart, shattering to pieces. The reason why that's not an appropriate description in the case of the caterpillar is that its body's dissolution is part of an active living process that's going somewhere, that though it is a destruction or death of sorts, is fully energized, with nodes of self-organization that are part of the living process that will take it to the next step. Collapse is a word for the falling apart of a mechanical system, not for the transformation of a living one. And there's the rub: at the heart of our world's current structures (the very ones that led to our current forms of government, finance, and politics that are unsustainable) is the underlying assumption that the universe is a mechanical system that we are separate from rather than a living system of which we are intimately a part. So to call what's happening now a "collapse" I think keeps us from stepping into the very "myriad opportunities it presents," because it keeps us thinking in the old way. If instead we conceive ourselves as part of a living system, then how we conceive of what's happening right now might be vastly different.
+
+Here is what I see: for the last 5,000 years (since the advent of the three big inventions: agriculture, writing, and money) we have been on a massive journey of increasing consciousness and liberating potential that those three inventions are the foundation of. I'm making no claim as to the universality, value, goodness, or evil of this journey--I just know that it has happened. At the end of this 5,000-year journey our consciousness of how the natural world (including ourselves) works, and the pure liberation of potential (both social, physical, and technological) is simply awesome. But we are at a nexus. On one hand there are millions if not billions of fully empowered humans on the planet; there is a vast quantity of energy that is available to be put to use; there is an even greater quantity of information and knowledge to organize that use; and there is an astounding set of information-processing tools coordinate that use. On the other, there are millions, if not billions of disempowered and enslaved humans on the planet; there is vast energy need as well as waste; and there is great disinformation and lies spread and all kinds of machinations in place to prevent the free spread and coordination of information. I see these two "hands" (the one hand and the other hand) as fully living and dynamic tensions in a vast living earth of which humanity, with its budding consciousness, is now a significant part.
+
+This gets us to the next phrase: "facing reality." Both of these "hands" are real. The power and awesomeness of where we are now, the pure raw potential, is massive and unprecedented, and is proven by the enormous amount of waste, of all kinds, that we are generating. This power and potential is real. The limits of peak oil, and the limited capacity of our biosphere to accept fossil carbon dioxide without massive climate change, are real. Which hand should I face? And I'm sure there is also a third, and fourth hand that are also just as real. The problem with this phrasing of "facing reality" is that it is also built on the same dualistic, mechanical world-view that underlies the phrasing of collapse. The idea of a single reality out there, that I as an individual have to "face," works because of how separated we have allowed ourselves to become from that very reality that we are supposed to face. It works because we have swallowed the idea of ourselves as isolated point subjects in some way outside of, and viewing, a mechanically objective and "real" world.
+
+But we are not passive observers of a single reality. The very place we have gotten to is because of a particular constructed view of what reality is. If we had constructed a different understanding of reality, one based not on the idea that we are separate from nature and have dominion over it, then we would not be in the same place we are now. We have built the reality of our political and social structures for ourselves. For sure we are embedded in a deeper reality, one not only of our construction, but the lion's share of the reality we experience is the one we are willing to experience, the one we have constructed for ourselves.
+
+So, I refuse to "face" the "reality" of "collapse." Instead I promise to explore the reality I have built for myself so far, and try to see how it is inaccurate and does not match my actual experience, so that I can change it. I can build new realities that are more accurate to my experience, in which I and my fellow journeyers are more empowered, more alive, and that creates greater possibility. For you see, we usually think about language as a tool that we use to describe reality, but language also creates the reality we experience. What makes makes our situation different from caterpillar-->butterfly is that for us a butterfly is not a certain outcome. Our outcome is completely unknown. To me this means that our deepest responsibility is to envision a reality we want and then do our best to build it. We can't do this based on projections of how the current order is destined to fall apart. Instead, I want to take what life has miraculously made available to us now (our caterpillar body's goo, if you will) and figure out what even more miraculous and precious reality we can build out of it.
+
+<div class="historical-comments mt-8 pt-8 border-t border-neutral-200 dark:border-neutral-700">
+<h2 class="text-xl font-bold mb-4">Historical Comments</h2>
+<div class="comment mb-6 p-4 bg-neutral-100 dark:bg-neutral-700 rounded-lg">
+<div class="comment-meta text-sm text-neutral-600 dark:text-neutral-400 mb-2">
+<a href="http://www.perceptric.com" class="font-semibold text-primary-600 dark:text-primary-400">Perceptric</a>
+ &mdash; July 13, 2009 at 01:49 AM
+</div>
+<div class="comment-content prose dark:prose-invert"><p>Very interesting ideas on this article and the one prior to this. </p><p>I and my business partner blog about P2P and while our focus is primarily in the blog on the impact of P2P on content, I am very interested in the economic potential for P2P as the basis for how information is transacted during the next chapter in planetary (and human) life. </p><p>We blog is at www.perceptric.com - Look forward to reading more of your thoughts. </p><p>Since you read some interesting stuff you may also be interested in a book that I am reading right now by Joshua Cooper Ramo, called &quot;The Age Of The Unthinkable - why the new world disorder constantly surprises us and what to do about it&quot;.</p></div>
+</div>
+<div class="comment mb-6 p-4 bg-neutral-100 dark:bg-neutral-700 rounded-lg">
+<div class="comment-meta text-sm text-neutral-600 dark:text-neutral-400 mb-2">
+<a href="http://www.selfport.com" class="font-semibold text-primary-600 dark:text-primary-400">kellyevans</a>
+ &mdash; August 05, 2009 at 12:02 PM
+</div>
+<div class="comment-content prose dark:prose-invert"><p>It might be certain what will come out of the goo of civilization, and the imaginal cells of technology.  The component parts of the caterpillar/butterfly might think their fate is just as uncertain.  But I take your meaning.</p><p>I agree that we are at a nexus, a point of transformation, and that with a slight tilt of the head, we can shift between views of reality.</p></div>
+</div>
+</div>
