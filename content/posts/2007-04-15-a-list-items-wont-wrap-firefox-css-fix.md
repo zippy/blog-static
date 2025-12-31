@@ -18,7 +18,7 @@ Code:
 
 ```
 <ol style="border: 1px solid #cccccc; width: 300px">
-  <img src="/images/eric.png" style="float: right" />
+  <img src="/blog/images/eric.png" style="float: right" />
   <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</li>
   <li>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -30,7 +30,7 @@ In Safari & Opera the text in the second list item wraps just fine. After an hou
 
 ```
 <ol style="border: 1px solid #cccccc; width: 300px">
-  <img src="/images/eric.png" style="float: right" />
+  <img src="/blog/images/eric.png" style="float: right" />
   <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</li>
   <li style="width:100%">sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation
