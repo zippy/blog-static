@@ -18,10 +18,10 @@
             class="w-24 max-w-[6rem] max-h-[4.5rem] rounded-md sm:max-h-[7.5rem] sm:w-40
             sm:max-w-[10rem]" src="{{ .Permalink }}"
           {{ else }}
-            class="w-24 rounded-md sm:w-40" srcset="
-            {{- (.Fill "160x120 smart").Permalink }}
-            160w, {{- (.Fill "320x240 smart").Permalink }} 2x"
-            src="{{ (.Fill "160x120 smart").Permalink }}" width="160" height="120"
+            class="w-24 rounded-md sm:w-40 object-contain" srcset="
+            {{- (.Fit "160x160").Permalink }}
+            160w, {{- (.Fit "320x320").Permalink }} 2x"
+            src="{{ (.Fit "160x160").Permalink }}"
           {{ end }}
           {{ if $.Site.Params.enableImageLazyLoading | default true }}
             loading="lazy"
