@@ -5,6 +5,13 @@
   "name": "blog-static",
   "account_id": "114e537335d7d5faa03a96b6714b46a3",
   "compatibility_date": "2026-06-24",
+  // Path-scoped routes: only /blog/* is served by this Worker; the rest of the
+  // hostname (root, etc.) is untouched. zone_name is the registrable zone,
+  // eric.harris-braun.com is a subdomain of it.
+  "routes": [
+    { "pattern": "eric.harris-braun.com/blog/*", "zone_name": "harris-braun.com" },
+    { "pattern": "eric.harris-braun.com/blog", "zone_name": "harris-braun.com" }
+  ],
   "assets": {
     "directory": "./public",
     // Legacy /id-N/ permalinks and the /blog path-mount are handled by public/_redirects.

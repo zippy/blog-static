@@ -3,8 +3,7 @@
   "private": true,
   "scripts": {
     "build": "hugo --gc --minify --cleanDestinationDir",
-    "deploy": "hugo --gc --minify --cleanDestinationDir && wrangler deploy",
-    "deploy:preview": "hugo --gc --minify --cleanDestinationDir --baseURL https://blog-static.eric-114.workers.dev/blog/ && wrangler deploy"
+    "deploy": "hugo --gc --minify --cleanDestinationDir && wrangler deploy"
   },
   "devDependencies": {
     "wrangler": "^4"

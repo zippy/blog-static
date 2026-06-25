@@ -3,6 +3,8 @@
 
 # root -> blog home
 /  /blog/  302
+# bare /blog (no trailing slash) -> /blog/
+/blog  /blog/  301
 
 # legacy WordPress /YYYY/MM/DD/id-N/ post permalinks -> Hugo slug URLs (301)
 /blog/2005/04/23/id-7/  /blog/2005/04/23/the-free-software-of-land-ownership/  301
