@@ -1,0 +1,13 @@
+{
+  // Cloudflare Workers (Static Assets) config — replaces the old Pages project.
+  // The site is a pure static Hugo build, so no Worker entrypoint is needed;
+  // Workers just serves the contents of ./public.
+  "name": "blog-static",
+  "account_id": "114e537335d7d5faa03a96b6714b46a3",
+  "compatibility_date": "2026-06-24",
+  "assets": {
+    "directory": "./public",
+    // Legacy /id-N/ permalinks and the /blog path-mount are handled by public/_redirects.
+    "not_found_handling": "404-page"
+  }
+}

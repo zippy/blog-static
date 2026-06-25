@@ -1,9 +1,30 @@
 {{ define "main" }}
-  <h1 class="mb-3 text-4xl font-extrabold">{{ i18n "error.404_title" | emojify }}</h1>
-  <p class="mb-12 mt-8 text-neutral-400 dark:text-neutral-500">
-    {{ i18n "error.404_error" | emojify }}
+  <h1 class="mb-3 text-4xl font-extrabold">404: this pattern doesn&rsquo;t exist&hellip; yet</h1>
+
+  <p class="mb-8 mt-6 text-neutral-400 dark:text-neutral-500">
+    You&rsquo;ve wandered off the edge of the map, like a vole zigzagging toward a
+    busy road. The page you wanted has scurried into the tall grass.
   </p>
+
   <div class="prose dark:prose-invert">
-    <p>{{ i18n "error.404_description" | emojify }}</p>
+    <p>
+      A few possibilities: the link was old and the URL moved (most of those redirect
+      themselves automatically now), there&rsquo;s a typo somewhere, or this page only
+      ever existed in a dream about peak oil and emergent consciousness.
+    </p>
+
+    <p>Either way, here are some roads that actually go somewhere:</p>
+
+    <ul>
+      <li>🏠 <a href="{{ "/" | relLangURL }}">Back to the home page</a></li>
+      <li>📜 <a href="{{ "posts/" | relLangURL }}">Browse every post, oldest to newest</a></li>
+      <li>🏷️ <a href="{{ "categories/" | relLangURL }}">Poke around by category</a></li>
+    </ul>
+
+    <p class="text-sm text-neutral-400 dark:text-neutral-500">
+      Followed an old link from somewhere out on the web? This blog migrated off
+      WordPress, so a few ancient addresses may have slipped the net. The links above
+      will get you back on track. It&rsquo;s all about the pattern.
+    </p>
   </div>
 {{ end }}

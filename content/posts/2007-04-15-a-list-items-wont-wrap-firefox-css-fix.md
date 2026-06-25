@@ -11,14 +11,14 @@ The last few days working on the [openmoney.info](http://openmoney.info) website
 
 The issue is that in Firefox, text in a list item won't wrap around a right floated image; like this:
 
-![](/blog/images/eric.png)2. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+![](/blog/images/photo.png)2. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 3. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Code:
 
 ```
 <ol style="border: 1px solid #cccccc; width: 300px">
-  <img src="/blog/images/eric.png" style="float: right" />
+  <img src="/blog/images/photo.png" style="float: right" />
   <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</li>
   <li>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -30,7 +30,7 @@ In Safari & Opera the text in the second list item wraps just fine. After an hou
 
 ```
 <ol style="border: 1px solid #cccccc; width: 300px">
-  <img src="/blog/images/eric.png" style="float: right" />
+  <img src="/blog/images/photo.png" style="float: right" />
   <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</li>
   <li style="width:100%">sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation
@@ -40,7 +40,7 @@ In Safari & Opera the text in the second list item wraps just fine. After an hou
 
 yields nice wrapping text for the second list item:
 
-![](/blog/images/eric.png)2. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+![](/blog/images/photo.png)2. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 3. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 If you aren't viewing this on Firefox, the above two may look identical. That's the whole point!
