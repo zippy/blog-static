@@ -1,17 +1,145 @@
-/* Site banner */
-header.py-6 {
-  background-image: url('/blog/img/flow.jpg') !important;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 2rem 1rem;
-  min-height: 120px;
-  border-bottom: 3px solid #c69f63;
-  margin-bottom: 5px;
+/* ==========================================================================
+   "flow" — a quiet, water-inspired theme.
+   Design goals: a sense of flow (gradients that drift), a subtle wave
+   pattern (it's all about the pattern), and otherwise out of the way.
+   ========================================================================== */
+
+:root {
+  --flow-deep: #0e4a5e;   /* deep water        */
+  --flow-mid: #0e7490;    /* teal              */
+  --flow-bright: #06b6d4; /* cyan current      */
+  --flow-light: #67e8f9;  /* foam highlight    */
 }
 
+/* Prevent the full-bleed hero from creating a horizontal scrollbar. */
+html { overflow-x: hidden; }
+
+/* --------------------------------------------------------------------------
+   1. Page background — a soft current that drifts down the page.
+   -------------------------------------------------------------------------- */
+/* Both modes begin near the header's teal just below it, then diverge:
+   light fades toward white, dark fades toward near-black. */
+body {
+  overflow-x: clip;
+  background-color: #eef8fb !important;
+  background-image:
+    radial-gradient(110% 55% at 80% 0%, rgba(6, 182, 212, 0.18), transparent 60%),
+    linear-gradient(180deg, #8fd2df 0%, #b6e1ea 12%, #d9eff4 32%, #eef8fb 60%, #f7fcfd 100%) !important;
+  background-attachment: fixed !important;
+}
+
+html.dark body {
+  background-color: #0a1c25 !important;
+  background-image:
+    radial-gradient(110% 55% at 80% 0%, rgba(6, 182, 212, 0.15), transparent 60%),
+    linear-gradient(180deg, #124656 0%, #0e3a48 12%, #0b2935 34%, #0a1c25 62%, #07141a 100%) !important;
+  background-attachment: fixed !important;
+}
+
+/* --------------------------------------------------------------------------
+   2. Hero band — full-bleed flowing gradient with a faint wave pattern.
+      The header content (logo + nav) stays aligned to the container; only
+      the painted background breaks out to the viewport edges.
+   -------------------------------------------------------------------------- */
+header.py-6 {
+  position: relative;
+  isolation: isolate;
+  margin-bottom: 2.75rem;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+
+header.py-6::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  z-index: -1;
+  background-image:
+    /* teal scrim — keeps the logo/nav legible and ties the photo to the theme */
+    linear-gradient(105deg, rgba(8, 51, 68, 0.82) 0%, rgba(14, 116, 144, 0.55) 45%, rgba(6, 182, 212, 0.22) 100%),
+    /* real water: ripples + reflections */
+    url("/blog/img/water-hero.jpg");
+  background-size: cover, cover;
+  background-position: center, center 35%;
+  background-repeat: no-repeat, no-repeat;
+  box-shadow: inset 0 -50px 70px -45px rgba(8, 30, 40, 0.5);
+}
+
+/* Logo + nav sit on the dark current, so paint them light. */
 header.py-6 a,
-header.py-6 span {
-  color: white !important;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+header.py-6 span,
+header.py-6 button {
+  color: #f0fdff !important;
+}
+header.py-6 a:hover span,
+header.py-6 button:hover span {
+  color: #ffffff !important;
+}
+
+/* "flow" wordmark — give it a little more presence. */
+header.py-6 .text-2xl,
+header.py-6 a:first-child {
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  text-shadow: 0 1px 8px rgba(6, 30, 40, 0.35);
+}
+
+/* --------------------------------------------------------------------------
+   3. Identity block (homepage profile) — breathing room under the hero.
+   -------------------------------------------------------------------------- */
+main article.flex.flex-col.items-center {
+  margin-bottom: 1rem;
+}
+
+/* --------------------------------------------------------------------------
+   4. Post thumbnails — larger, clearer, and they stack on small screens.
+      Targets the recent/list article rows (article.max-w-prose).
+   -------------------------------------------------------------------------- */
+article.max-w-prose {
+  max-width: 64rem;        /* wider than prose so summaries wrap less cramped */
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(14, 116, 144, 0.12);
+}
+/* let the text column itself use the new width */
+article.max-w-prose > div:last-child {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+html.dark article.max-w-prose {
+  border-bottom-color: rgba(103, 232, 249, 0.12);
+}
+
+article.max-w-prose img {
+  width: 12rem;
+  height: 8rem;
+  max-width: none;
+  object-fit: cover;
+  border-radius: 0.85rem;
+  box-shadow: 0 6px 18px -8px rgba(8, 50, 65, 0.45);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+article.max-w-prose a:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px -8px rgba(8, 50, 65, 0.55);
+}
+
+/* Stack image above text on phones so nothing is cramped. */
+@media (max-width: 640px) {
+  article.max-w-prose {
+    flex-direction: column !important;
+  }
+  article.max-w-prose img {
+    width: 100%;
+    height: 11rem;
+  }
+  article.max-w-prose .flex-none {
+    padding-inline-end: 0 !important;
+    margin-bottom: 0.75rem;
+    width: 100%;
+  }
 }
