@@ -3,4 +3,11 @@
   {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
     {{ partial "article-link.html" . }}
   {{ end }}
+  <div class="mt-10 flex justify-center">
+    <a
+      class="rounded-md bg-primary-600 px-4 py-2 font-semibold !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+      href="{{ "posts/" | relLangURL }}"
+      >More posts &rarr;</a
+    >
+  </div>
 {{ end }}

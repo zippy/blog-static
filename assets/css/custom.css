@@ -20,7 +20,6 @@ html { overflow-x: hidden; }
 /* Both modes begin near the header's teal just below it, then diverge:
    light fades toward white, dark fades toward near-black. */
 body {
-  overflow-x: clip;
   background-color: #eef8fb !important;
   background-image:
     radial-gradient(110% 55% at 80% 0%, rgba(6, 182, 212, 0.18), transparent 60%),
@@ -142,4 +141,13 @@ article.max-w-prose a:hover img {
     margin-bottom: 0.75rem;
     width: 100%;
   }
+}
+
+/* --------------------------------------------------------------------------
+   5. Wider text column — posts and lists fill the content area (the same
+      width as the nav) instead of the default ~65-character column.
+   -------------------------------------------------------------------------- */
+main .max-w-prose,
+main .prose {
+  max-width: 64rem;
 }
