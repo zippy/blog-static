@@ -70,7 +70,13 @@
     </div>
     {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
       <div class="prose py-1 dark:prose-invert">
-        {{ .Summary | emojify }}
+        {{- $summary := .Summary }}
+        {{- /* The thumbnail already shows the post image, so drop images (and
+               links that only wrapped an image) from the summary. */}}
+        {{- if $feature }}
+          {{- $summary = $summary | replaceRE `<a[^>]*>\s*<img[^>]*>\s*</a>` "" | replaceRE `<img[^>]*>` "" | replaceRE `<p>\s*</p>` "" | safeHTML }}
+        {{- end }}
+        {{ $summary | emojify }}
       </div>
     {{ end }}
   </div>
